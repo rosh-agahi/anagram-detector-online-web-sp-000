@@ -4,7 +4,7 @@ class Anagram
   
   attr_accessor :word
   
-  def initializeI(word)
+  def initialize(word)
     @word = word
   end
   
