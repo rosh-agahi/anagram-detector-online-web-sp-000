@@ -13,6 +13,7 @@ class Anagram
       if @word.sort == list_word.sort
         puts list_word
       end
+    end
   end
   
 end
